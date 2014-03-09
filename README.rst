@@ -29,5 +29,20 @@ Minimal configuration as follows
 -  Your certificate can be found in the `settings`_ page of your
    phabricator installation
 
+.. code:: bash
+
+	msk@msk-ubuntu ~/projects/python_phabricator (master●)$ python
+	Python 2.7.5+ (default, Feb 27 2014, 19:37:08) 
+	[GCC 4.8.1] on linux2
+	Type "help", "copyright", "credits" or "license" for more information.
+	>>> from phabricator.paste.query import QueryPaste
+	>>> p = QueryPaste()
+	>>> p.makeRequest()
+	loading token from disk cache
+	Paste Id: PHID-PSTE-klpolzpskydol4lofldl
+	Paste Id: PHID-PSTE-wfankndvvhullmp2rwgj
+	Paste Id: PHID-PSTE-epwflteivngjxxu7d3yb
+	Paste Id: PHID-PSTE-wrnmkkythul4wzm5c7qd
+
 .. _Arcanist: https://github.com/facebook/arcanist
 .. _settings: https://secure.phabricator.com/settings/panel/conduit/

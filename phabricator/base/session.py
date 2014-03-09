@@ -3,7 +3,7 @@ import json
 import requests
 import time
 
-from config.settings import *
+from phabricator.config.settings import *
 
 # Format parameters for conduit.connect
 current_timestamp = int(time.time())

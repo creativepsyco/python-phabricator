@@ -3,7 +3,7 @@ import json
 import requests
 import time
 
-from config.settings import *
+from phabricator.config.settings import *
 import session
 
 class APIRequest(object):

@@ -7,7 +7,7 @@ with open('README.rst') as infile:
 
 setup(
     name='phabricator-python',
-    version='0.1.5',
+    version='0.3',
     author='Mohit Kanwal',
     author_email='mohit.kanwal@gmail.com',
     url='http://github.com/creativepsyco/python-phabricator',
