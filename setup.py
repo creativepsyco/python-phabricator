@@ -6,8 +6,8 @@ with open('README.rst') as infile:
     long_description = infile.read()
 
 setup(
-    name='python-phabricator',
-    version='0.1.3',
+    name='phabricator-python',
+    version='0.1.5',
     author='Mohit Kanwal',
     author_email='mohit.kanwal@gmail.com',
     url='http://github.com/creativepsyco/python-phabricator',

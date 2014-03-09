@@ -1,4 +1,4 @@
-python-phabricator
+python_phabricator
 ==================
 
 A Conduit Based Python API for Phabricator
