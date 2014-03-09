@@ -12,7 +12,7 @@ How to Use
 ==========
 Minimal configuration as follows
 
-```
+```python
 # The Certificate of your phabricator installation that can be found
 # under settings
 CERT = 'YOUR_CERTIFICATE_HERE'
