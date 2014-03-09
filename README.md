@@ -3,7 +3,7 @@ python-phabricator
 
 A Conduit Based Python API for Phabricator 
 
-* Aims to be python based, no dependency on [Arcanist][https://github.com/facebook/arcanist]
+* Aims to be python based, no dependency on [Arcanist](https://github.com/facebook/arcanist)
 * Module Based format for API Requests (Easy to extend)
 * Session Token is Cached and takes into account expiry time
 
@@ -27,4 +27,4 @@ PHAB = 'PHABRICATOR_URL'
 
 * Copy `settings_sample.py` as `settings.py`
 * Fill out the values
-* Your certificate can be found in the [settings][https://secure.phabricator.com/settings/panel/conduit/] page of your phabricator installation
+* Your certificate can be found in the [settings](https://secure.phabricator.com/settings/panel/conduit/) page of your phabricator installation

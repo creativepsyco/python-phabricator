@@ -1,4 +1,4 @@
 paste module
 ==================
 
-Implements Paste Methods documented [here][https://secure.phabricator.com/conduit/]
+Implements Paste Methods documented [here](https://secure.phabricator.com/conduit/)
