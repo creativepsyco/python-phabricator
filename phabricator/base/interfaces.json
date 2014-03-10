@@ -1,0 +1,11 @@
+{
+	"audit.query" : {
+		"args" : {
+			"auditorPHIDs" 	: [],
+			"commitPHIDs"	: [],
+			"status"		: "status-any",
+			"offset"		: 0,
+			"limit"			: 3
+		}
+	}
+}

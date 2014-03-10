@@ -1,11 +1,9 @@
-#!/usr/bin/python
-
 import json
 import requests
 import sys
 
-from config.settings import *
-from base import session
+from phabricator.config.settings import *
+import session
 
 CONDUIT_INTERFACES = 'interfaces.json'
 
