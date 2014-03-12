@@ -28,6 +28,7 @@ Minimal configuration as follows
 -  Fill out the values
 -  Your certificate can be found in the `settings`_ page of your
    phabricator installation
+-  Looking to make this customizable during setup
 
 .. code:: bash
 
